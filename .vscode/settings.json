@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/07394b28-4df3-413e-b208-30eb6e3a5857/resourceGroups/fooddelivery_group/providers/Microsoft.Web/sites/fooddelivery",
+    "appService.deploySubpath": "."
+}
